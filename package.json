@@ -1,0 +1,28 @@
+{
+  "name": "koa-driftwood",
+  "version": "1.0.0",
+  "description": "Koa middleware for logging with driftwood",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QubitProducts/koa-driftwood.git"
+  },
+  "keywords": [
+    "driftwood",
+    "logging",
+    "koa"
+  ],
+  "author": "Qubit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/QubitProducts/koa-driftwood/issues"
+  },
+  "homepage": "https://github.com/QubitProducts/koa-driftwood#readme"
+}
